@@ -1,0 +1,19 @@
+{
+  "name": "selfbase-types",
+  "version": "1.0.0",
+  "description": "selfbase-types",
+  "main": "index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Padavan94/selfbase-types.git"
+  },
+  "author": "Padavan94",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Padavan94/selfbase-types/issues"
+  },
+  "homepage": "https://github.com/Padavan94/selfbase-types#readme"
+}
