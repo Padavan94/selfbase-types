@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "selfbase-types",
   "main": "index.d.ts",
+  "types": "index.d.ts",
   "scripts": {
+    "build": "tsc",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -15,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/Padavan94/selfbase-types/issues"
   },
-  "homepage": "https://github.com/Padavan94/selfbase-types#readme"
+  "homepage": "https://github.com/Padavan94/selfbase-types#readme",
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "mongoose": "^5.12.0"
+  }
 }

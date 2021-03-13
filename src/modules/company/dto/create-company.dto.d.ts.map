@@ -1,0 +1,1 @@
+{"version":3,"file":"create-company.dto.d.ts","sourceRoot":"","sources":["../../../../../selfbase/src/modules/company/dto/create-company.dto.ts"],"names":[],"mappings":"AAGA,qBAAa,gBAAgB;IAG3B,QAAQ,CAAC,IAAI,EAAE,MAAM,CAAC;IAItB,QAAQ,CAAC,WAAW,CAAC,EAAE,MAAM,CAAC;IAI9B,QAAQ,CAAC,IAAI,CAAC,EAAE,MAAM,CAAC;CACxB"}
